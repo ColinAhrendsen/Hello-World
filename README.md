@@ -3,12 +3,12 @@ This is an example of a good README.md file that can be used when describing a p
 
 ## _Table of Contents_
 
-- [Project Title].(#Project-Title)
-- [Description].(#Description)
-- [Tools Used].(#Tools-Used)
-- [Files Used].(#Files-Used)
-- [How to Run a Program].(How-to-Run-Program)
-- [Additional Information].(Adiitonal-Information)
+- [Project Title].(#_Project-Title_)
+- [Description].(#_Description_)
+- [Tools Used].(#_Tools-Used_)
+- [Files Used].(#_Files-Used_)
+- [How to Run a Program].(#_How-to-Run-Program_)
+- [Additional Information].(#_Additional-Information_)
 
 ## _Project Title_
 "Hello World"
