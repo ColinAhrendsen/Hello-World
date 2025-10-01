@@ -25,13 +25,11 @@ Used Excelk to track and analyze data.
 
 ## _Files Used_
 
-Hello_World/
-├── README.md
-├── 
+- SampleData.xlsx - Provides the sum, average, and count of a set of random numbers
 
 ## _How to Run Program_
 
-
+Download zip and open excel sheet. 
 
 ## _Additional Information_
 
