@@ -12,7 +12,7 @@ This is an example of a good README.md file that is my first one ever.
 
 ## _Project Title_
 
-"Hello World, SUummary of Data"
+"Hello World, Summary of Data"
 
 ## _Description_
 
@@ -21,7 +21,7 @@ Practice Github by using this sample repository. Created sample data in excel to
 
 ## _Tools Used_
 
-Used Excelk to track and analyze data.
+Used Excel to track and analyze data.
 
 ## _Files Used_
 
