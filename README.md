@@ -1,7 +1,7 @@
 # **My First Repository**
 This is an example of a good README.md file that is my first one ever.
 
-## <_Table of Contents_>
+## <ins></ins>_Table of Contents_<ins>
 
 - [Project Title](#project-title)
 - [Description](#description)
