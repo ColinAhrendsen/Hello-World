@@ -3,7 +3,7 @@ This is an example of a good README.md file that can be used when describing a p
 
 ## _Table of Contents_
 
-- [Project Title].(## _Project Title_)
+- [Project Title].(project-title)
 - [Description].(#description)
 - [Tools Used].(#tools-used)
 - [Files Used].(#files-used)
