@@ -3,7 +3,7 @@ This is an example of a good README.md file that can be used when describing a p
 
 ## _Table of Contents_
 
-- [Project Title].(#project-title)
+- [Project Title].(## _Project Title_)
 - [Description].(#description)
 - [Tools Used].(#tools-used)
 - [Files Used].(#files-used)
@@ -11,18 +11,23 @@ This is an example of a good README.md file that can be used when describing a p
 - [Additional Information].(#additional-information)
 
 ## _Project Title_
+
 "Hello World"
 
 ## _Description_
+
 Practice Github by using sample repository
 
 ## _Tools Used_
+
 Used Linkedin Learning course to understand how to used GitHub
 
 ## _Files Used_
+
 Didn't use any files 
 
 ## _How to Run Program_
+
 Hello_World/
 └── 
     │── README.md
@@ -31,4 +36,5 @@ Hello_World/
     │── examples.html
 
 ## _Additional Information_
+
 No additional Information
