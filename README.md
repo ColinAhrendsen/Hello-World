@@ -1,5 +1,5 @@
 # **My First Repository**
-This is an example of a good README.md file that can be used when describing a project.
+This is an example of a good README.md file that is my first one ever.
 
 ## _Table of Contents_
 
@@ -12,29 +12,26 @@ This is an example of a good README.md file that can be used when describing a p
 
 ## _Project Title_
 
-"Hello World"
+"Hello World, SUummary of Data"
 
 ## _Description_
 
-Practice Github by using sample repository
+Practice Github by using this sample repository. Created sample data in excel to use for this project. What I did was type in random numbers in 3 columns and then did the average of all of those, the count, and the sum. What I found was that the sum was 13721. The Average was 527.7307692, and the count was 26.
+
 
 ## _Tools Used_
 
-Used Linkedin Learning course to understand how to used GitHub
+Used Excelk to track and analyze data.
 
 ## _Files Used_
 
-Didn't use any files 
+Hello_World/
+├── README.md
+├── 
 
 ## _How to Run Program_
 
-Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
-   
+
 
 ## _Additional Information_
 
